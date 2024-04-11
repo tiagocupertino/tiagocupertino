@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=750&color=0098FF&center=true&vCenter=true&random=false&width=435&lines=Tiago+Cupertino+%7C+Python+Developer)](https://git.io/typing-svg)
 
-Hello, my name is Tiago Cupertino.
-Check out my Python repositories!
-
 Technologies:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
