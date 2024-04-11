@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=750&color=0098FF&center=true&vCenter=true&random=false&width=435&lines=Tiago+Cupertino+%7C+Cloud+DevOps+Engineer+in+Training)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=750&color=0098FF&center=true&vCenter=true&random=false&width=650&lines=Tiago+Cupertino+%7C+Cloud+DevOps+Engineer+in+Training)](https://git.io/typing-svg)
 
 Technologies:
 <div align="center">
